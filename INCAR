@@ -6,9 +6,9 @@ INCAR created by Atomic Simulation Environment
  PREC = High
  ALGO = 38
  ISPIN = 2
- ISMEAR = 0
- ISTART = 0
- NSW = 200
+ ISMEAR = 1
+ ISTART = 1
+ NSW = 0
  IBRION = 2
  NCORE = 1
  IVDW = 0
